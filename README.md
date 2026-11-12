@@ -1,16 +1,13 @@
-## Hi there 👋
+# Michael Mastrella
 
-<!--
-**mastrella/mastrella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal-level software engineer and co-founder. I build production AI agent systems and the backend platforms
+they run on. Based in Miami (U.S. & Canadian citizen). Open to new roles, plus contract work.
 
-Here are some ideas to get you started:
+### Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TypeScript · Python · Ruby on Rails · Node.js · React · PostgreSQL · Redis · AWS · Docker · Kubernetes ·
+LLM agents · tool calling · RAG · evals · OpenAI · Anthropic · LangChain · ElevenLabs
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/michaelmastrella/) · mastrellamichael@gmail.com
